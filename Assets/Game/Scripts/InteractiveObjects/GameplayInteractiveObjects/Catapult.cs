@@ -7,7 +7,7 @@ public class Catapult : CollisionHandler, IInitializableSpawnableObject
     [SerializeField] private Rigidbody armRigidbody;
     [SerializeField] private Transform arm;
     [SerializeField] private Vector3 shootEuler;
-    [SerializeField] private float rotateSpeed = 90f; // °/сек
+    [SerializeField] private float rotateSpeed = 90f;
     [SerializeField] private float pauseBeforeShoot = 0.3f;
     [SerializeField] private float pauseAtShoot = 0.3f;
     [SerializeField] private float launchForce = 500f;

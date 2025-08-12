@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 4d5690de754e844128bb4f6b65d81b81
+  m_SerializeEntries:
+  - m_GUID: 04e1e9f946cbc074b881efdc9de82b99
+    m_Address: Assets/Game/Prefabs/Axe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 146012d0b7773ed47825d8408f9ca6ee
+    m_Address: Assets/Game/Levels/2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19359d6d787becf429151a862ded88f3
+    m_Address: Assets/Game/Prefabs/Spawnable/Blocks/Chest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 399a5ea7c0c3040449591a8edc42f135
+    m_Address: Assets/Game/Prefabs/Spawnable/Ball.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 637acb3aa6d02eb47b3cb9d0c7264489
+    m_Address: Assets/Game/Prefabs/Spawnable/Blocks/Dirt.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 778bd2b5a53c69842a6104888b49dedc
+    m_Address: Assets/Game/Prefabs/Spawnable/Anvil.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93411ad2315a7ec4ca05dec2232b7a59
+    m_Address: Assets/Game/Prefabs/Spawnable/Board.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8a6fd04ff966ef428a8df84ffbd6b2f
+    m_Address: Assets/Game/Prefabs/Spawnable/Pickaxe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c680755f02a7237459620023a6af7e3a
+    m_Address: Assets/Game/Levels/Test Level.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffc0fc150cbcc234d993ce2251062615
+    m_Address: Localization
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 08c9b064badeb42c2a3d0556cc6d5831, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7776490d901f84817b56c1a200a5fc0c, type: 2}
+    - {fileID: 11400000, guid: 05f1a0811429d4c20b5f9d00184aaed1, type: 2}
